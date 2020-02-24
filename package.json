@@ -1,0 +1,17 @@
+{
+  "name": "03nodebase",
+  "version": "1.0.0",
+  "description": "Esta aplicacion de linea de comandos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gines Lopez",
+  "license": "ISC",
+  "dependencies": {
+    "app": "^0.1.0",
+    "colors": "^1.4.0",
+    "yargs": "^15.1.0"
+  },
+  "devDependencies": {}
+}
